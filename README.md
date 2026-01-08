@@ -1,3 +1,7 @@
+```
+Live preview : https://harsh-upla.github.io/Todo-app/
+```
+
 # 📝 Todo App
 
 A sleek and minimal **To-Do List** web application built with **React + Vite**.  
