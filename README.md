@@ -1,6 +1,6 @@
-```
+
 Live preview : https://harsh-upla.github.io/Todo-app/
-```
+
 
 # 📝 Todo App
 
